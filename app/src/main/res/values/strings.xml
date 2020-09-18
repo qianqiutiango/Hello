@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="Text1" translatable="false">Tomcat</string>
+    <string name="Text2" translatable="false">Android</string>
+    <string name="Text3">hello</string>
+</resources>
